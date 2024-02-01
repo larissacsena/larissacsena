@@ -14,15 +14,11 @@
 
 ###
 
-<p align="left">Hello, I am a person passionate about 💻 programming ,  🎶 music,  🎮 games and 🐾 animals. <br>🚀 I'm taking myself seriously. 🛫</p>
+<p align="left">Hello, I am a person passionate about 💻 programming ,  🎶 music,  🎮 games and 🐾 animals. <br><br>📍 - Brazil.<br>💻 - Software Developer.<br><br>🚀 I'm taking myself seriously. 🛫</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<p align="left">📍 - Brazil.<br>💻 - Software Developer.</p>
 
 ###
 
